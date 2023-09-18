@@ -1,0 +1,2 @@
+export const DEPOSITE_CASH="DEPOSITE_CASH"
+export const WIDRAW_CASH="WIDRAW_CASH"
